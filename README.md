@@ -1,3 +1,3 @@
 # startingsetup
 
-hi
+hi i am good
