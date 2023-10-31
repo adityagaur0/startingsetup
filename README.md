@@ -8,7 +8,7 @@ With keys it does, and in flutter we need to add keys to make it work correctly.
 
 ## Mutating Values in Memory and Making sense of var,final & const
 
-![Alt text](<assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png> )=20x20
+![Alt text](<assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png> )
 
 ![Alt text](<assets/documentation/Screenshot 2023-10-31 at 4.55.26 PM.png> )
 var, final , const differences and differences between assigning a value and editing a value in memory.
