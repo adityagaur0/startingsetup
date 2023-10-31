@@ -8,7 +8,7 @@ With keys it does, and in flutter we need to add keys to make it work correctly.
 
 ## Mutating Values in Memory and Making sense of var,final & const
 
-![Alt text](<assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png>)
+
 
 <img src="/Users/adityagaur/Downloads/00flutter/UdemyFLutter/startingsetup/assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png" width="200" height="100">
 
