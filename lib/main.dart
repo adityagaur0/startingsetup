@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:startingsetup/keys/keys.dart';
-import 'package:startingsetup/ui_updates_demo.dart';
+// import 'package:startingsetup/ui_updates_demo.dart';
 
 void main() {
   runApp(const App());

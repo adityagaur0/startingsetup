@@ -6,11 +6,11 @@ and render tree is only updated partially if differences bteween only and new ar
 And also learnt keys while working with stateful widget, which other wise loose their state if used without keys,because state would not move along with the widgets.
 With keys it does, and in flutter we need to add keys to make it work correctly.
 
+hi
+
 ## Mutating Values in Memory and Making sense of var,final & const
 
-
-
-<img src="/Users/adityagaur/Downloads/00flutter/UdemyFLutter/startingsetup/assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png" width="200" height="100">
+<img src="assets/documentation/Screenshot 2023-10-31 at 4.54.53 PM.png" width="40" height="20">
 
 ![Alt text](<assets/documentation/Screenshot 2023-10-31 at 4.55.26 PM.png>)
 var, final , const differences and differences between assigning a value and editing a value in memory.
